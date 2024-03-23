@@ -1,0 +1,1 @@
+PowerShell -NoProfile -ExecutionPolicy bypass  -File C:\Temp\wifiSwitch.ps1
